@@ -1,5 +1,4 @@
 # si-terang
-<!DOCTYPE html>
 <html lang="id" data-theme="dark">
 <head>
     <meta charset="UTF-8">
